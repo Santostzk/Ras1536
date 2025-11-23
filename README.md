@@ -8,7 +8,7 @@
 <br> 
 
 <div>
-    <img width="300px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW4zaTVxdDdwczhtbzRvZGlkZHAyY2pzYnprcDY3M3NxZjZ1NHozNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+    <img width="300px" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 </div>
 
 <br>
@@ -26,7 +26,7 @@
 <br>
 
 <div>
-  <h2>📊 GitHub Statistics</h2>
+  <h2>📊 Estatísticas do GitHub</h2>
   <a href="https://github.com/Ras1563">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ras1563&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ras1563&show_icons=true&theme=dracula">
@@ -35,7 +35,7 @@
 <br>
 
 <div>
-  <h2>📌 Reach me</h2>
+  <h2>📌Contato</h2>
   <a href="https://www.instagram.com/santos.tzk/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-santos-b864532b0/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
